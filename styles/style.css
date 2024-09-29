@@ -5,13 +5,18 @@
 }
 
 
-.primary-btn {
+.btn-primary {
     background-color: #0D6EFD;
-    color: #fff;
+    outline: 0px;
+    color: white;
     font-size: 20px;
     font-weight: 700;
     border-radius: 10px;
     padding: 17px 40px 17px 40px;
 }
 
-;
+.common-description {
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 70%;
+}
